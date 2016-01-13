@@ -62,7 +62,6 @@ ins{
 	background-repeat: no-repeat;
  	background-position: center center;
   	background-size: cover;
-	height: 400px;
 	overflow: auto;
 }
 
@@ -74,6 +73,7 @@ ins{
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: bold;
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 #image aside h2{ 
