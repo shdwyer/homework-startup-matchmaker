@@ -72,7 +72,7 @@ ins{
 	width: 250px;
 	padding: 20px;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-style: bold;
+	font-weight: bold;
 	margin-top: 20px;
 }
 
@@ -108,13 +108,13 @@ ins{
 
 #choices article h2{
 	font-family: 'Merriweather', serif;
-	font-style: bold;
+	font-weight: bold;
 	font-size: 25px;
 }
 
 #choices article p{
 	font-family: 'Source Sans Pro', sans-serif;
-	font-style: bold;
+	font-weight: bold;
 	font-size: 20px;
 }
 
@@ -122,7 +122,7 @@ footer{
 	background-color: black;
 	color: white;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-style: bold;
+	font-weight: bold;
 	font-size: 20px;
 	clear: both;
 	height: 100px;
